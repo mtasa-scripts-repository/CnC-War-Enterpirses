@@ -1,0 +1,17 @@
+<meta>
+    <info author="Cobra" type="script" version="1.0.0" />
+    <script src="c_sManager.lua"  type='client' />
+	
+	<file src='Content/textures/Red.txd' type='client' />
+	<file src='Content/textures/Blue.txd' type='client' />
+	
+	<file src='Content/models/Marine_B.dff' type='client' />
+	<file src='Content/models/Marine_C.dff' type='client' />
+	<file src='Content/models/Marine_D.dff' type='client' />
+	<file src='Content/models/Marine_E.dff' type='client' />
+	<file src='Content/models/Marine_F.dff' type='client' />
+	<file src='Content/models/Marine_G.dff' type='client' />
+	<file src='Content/models/Marine_H.dff' type='client' />
+	<file src='Content/models/Marine_I.dff' type='client' />
+	
+</meta>

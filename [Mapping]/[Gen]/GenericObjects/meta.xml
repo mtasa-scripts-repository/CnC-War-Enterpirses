@@ -1,0 +1,36 @@
+
+<meta>
+	<info type="script" name="Red Rover Map" author="Cobra" description="Mini Game Map" version="1" cStream="1" />
+	<file src="gta3.CSD" />
+ 
+	<script src="c_mEnv.lua" type="client" />
+	
+	<file src='Content/textures/Blue.txd' type='client' />
+	<file src='Content/textures/Red.txd' type='client' />
+	
+	<file src='Content/textures/Pelican.txd' type='client' />
+	
+	<file src='Content/models/Flag_Top_FP_Blue.dff' type='client' />
+	<file src='Content/models/Flag_Bottom_FP_Blue.dff' type='client' />
+	<file src='Content/models/Flag_Top_Blue.dff' type='client' />
+	<file src='Content/models/Flag_Bottom_Blue.dff' type='client' />
+	
+	<file src='Content/models/Pelican.dff' type='client' />
+	
+	<file src='Content/coll/Flag_Top_FP_Blue.col' type='client' />
+	<file src='Content/coll/Flag_Bottom_FP_Blue.col' type='client' />
+	<file src='Content/coll/Flag_Top_Blue.col' type='client' />
+	<file src='Content/coll/Flag_Bottom_Blue.col' type='client' />
+	
+	<file src='Content/models/Flag_Top_FP_Red.dff' type='client' />
+	<file src='Content/models/Flag_Bottom_FP_Red.dff' type='client' />
+	<file src='Content/models/Flag_Top_Red.dff' type='client' />
+	<file src='Content/models/Flag_Bottom_Red.dff' type='client' />
+	
+	<file src='Content/coll/Flag_Top_FP_Red.col' type='client' />
+	<file src='Content/coll/Flag_Bottom_FP_Red.col' type='client' />
+	<file src='Content/coll/Flag_Top_Red.col' type='client' />
+	<file src='Content/coll/Flag_Bottom_Red.col' type='client' />
+	
+	<file src='Content/coll/Pelican.col' type='client' />
+</meta>

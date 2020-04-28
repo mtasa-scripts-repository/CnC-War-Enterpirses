@@ -1,0 +1,6 @@
+<meta>
+    <info author="Cobra" type="script" version="1.0.0" />
+	<file src="Shaders/mta-helper.fx"  />
+	<file src="Shaders/antenna.fx"  />
+    <script src="c_Sway.lua" type="client" />
+</meta>

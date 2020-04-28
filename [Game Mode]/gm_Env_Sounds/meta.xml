@@ -1,0 +1,14 @@
+<meta>
+    <info author="Cobra" type="script" version="1.0.0" />
+    <script src="c_Sounds.lua" type="client"  />
+
+	<file src="Sounds/Loop/sound1.wav"/>
+	
+	<file src="Sounds/bird/sound1.wav"/>
+	<file src="Sounds/Thunder/sound1.wav"/>
+	<file src="Sounds/Wind/sound1.wav"/>
+	<file src="Sounds/bird/sound2.wav"/>
+	<file src="Sounds/Thunder/sound2.wav"/>
+	<file src="Sounds/Wind/sound2.wav"/>
+	<file src="Sounds/teleport.wav"/>
+</meta>

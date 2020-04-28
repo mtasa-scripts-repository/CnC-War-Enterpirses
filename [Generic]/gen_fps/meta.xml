@@ -1,0 +1,4 @@
+<meta>
+	<info author="Cobra" description="FPS Calculations" type="Generic" version="1.0" />
+	<script src="c_Fps.lua" type="client" />
+</meta>

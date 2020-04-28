@@ -1,0 +1,43 @@
+<meta> 
+	<info name="dr_lightManager" version="0.1.1" type="script" author="Ren712"/>
+	<min_mta_version client="1.5.0" server="1.5.0" />
+	<oop>true</oop>
+	<include resource="dr_rendertarget" /> 
+	
+	<script src="c_Material3D_pointLight.lua" type="client" />
+	<file src="fx/material3D_pointLight.fx" type="client" />
+	<file src="fx/material3D_pointLight_LOD.fx" type="client" />
+	
+	<script src="c_Material3D_spotLight.lua" type="client" />
+	<file src="fx/material3D_spotLight.fx" type="client" />
+	<file src="fx/material3D_spotLight_LOD.fx" type="client" />
+	
+	<script src="c_Common.lua" type="client" />
+	<script src="c_Main.lua" type="client" />
+	<script src="c_Exports.lua" type="client" />
+	
+	<export function="createPointLight" type="client" />
+	<export function="createSpotLight" type="client" />
+	<export function="destroyLight" type="client" />
+	<export function="setLightDirection" type="client" />
+	<export function="setLightRotation" type="client" />
+	<export function="setLightPosition" type="client" />
+	<export function="setLightColor" type="client" />
+	<export function="setLightAttenuation" type="client" />
+	<export function="setLightAttenuationPower" type="client" />
+	<export function="setLightFalloff" type="client" />
+	<export function="setLightTheta" type="client" />
+	<export function="setLightPhi" type="client" />
+
+	<export function="getLightDimension" type="client" />
+	<export function="getLightInterior" type="client" />
+	<export function="getLightDirection" type="client" />
+	<export function="getLightRotation" type="client" />
+	<export function="getLightPosition" type="client" />
+	<export function="getLightColor" type="client" />
+	<export function="getLightAttenuation" type="client" />
+	<export function="getLightAttenuationPower" type="client" />
+	<export function="getLightFalloff" type="client" />
+	<export function="getLightTheta" type="client" />
+	<export function="getLightPhi" type="client" />
+</meta>

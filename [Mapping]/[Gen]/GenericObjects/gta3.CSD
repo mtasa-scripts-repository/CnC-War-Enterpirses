@@ -1,0 +1,9 @@
+Flag_Bottom_Blue,Flag_Bottom_Blue,Blue,Flag_Bottom_Blue,300,true,true,true
+Flag_Bottom_FP_Blue,Flag_Bottom_FP_Blue,Blue,Flag_Bottom_FP_Blue,300,true,true,true
+Flag_Top_Blue,Flag_Top_Blue,Blue,Flag_Top_Blue,300,true,true,true
+Flag_Top_FP_Blue,Flag_Top_FP_Blue,Blue,Flag_Top_FP_Blue,300,true,true,true
+Flag_Bottom_Red,Flag_Bottom_Red,Red,Flag_Bottom_Red,300,true,true,true
+Flag_Bottom_FP_Red,Flag_Bottom_FP_Red,Red,Flag_Bottom_FP_Red,300,true,true,true
+Flag_Top_Red,Flag_Top_Red,Red,Flag_Top_Red,300,true,true,true
+Flag_Top_FP_Red,Flag_Top_FP_Red,Red,Flag_Top_FP_Red,300,true,true,true
+Pelican,Pelican,Pelican,Pelican,300,true,true,true

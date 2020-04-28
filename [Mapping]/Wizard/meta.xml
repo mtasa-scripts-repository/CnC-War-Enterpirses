@@ -1,0 +1,55 @@
+
+<meta>
+	<info type="script" name="Red Rover Map" author="Cobra" description="Mini Game Map" version="1" cStream="1" />
+	<file src="gta3.CSD" />
+ 
+	<script src="c_mEnv.lua" type="client" />
+	
+	<file src='Content/textures/Wizard.txd' type='client' />
+	<file src='Content/models/Lights.dff' type='client' />
+	<file src='Content/models/B_Int00.dff' type='client' />
+	<file src='Content/models/Latter.dff' type='client' />
+	<file src='Content/models/T_Int00.dff' type='client' />
+	<file src='Content/models/B_Int01.dff' type='client' />
+	<file src='Content/models/B_Int02.dff' type='client' />
+	<file src='Content/models/B_Int03.dff' type='client' />
+	<file src='Content/models/B_Int04.dff' type='client' />
+	<file src='Content/models/B_Int05.dff' type='client' />
+	<file src='Content/models/B_Int06.dff' type='client' />
+	<file src='Content/models/B_Int07.dff' type='client' />
+	<file src='Content/models/B_Int08.dff' type='client' />
+	<file src='Content/models/B_Int09.dff' type='client' />
+	<file src='Content/models/B_Int10.dff' type='client' />
+	<file src='Content/models/B_Int11.dff' type='client' />
+	<file src='Content/models/B_Int12.dff' type='client' />
+	<file src='Content/models/B_Int13.dff' type='client' />
+	<file src='Content/models/B_Int14.dff' type='client' />
+	<file src='Content/models/B_Int15.dff' type='client' />
+	<file src='Content/models/T_Int01.dff' type='client' />
+	<file src='Content/models/T_Int02.dff' type='client' />
+	<file src='Content/models/T_Int03.dff' type='client' />
+	<file src='Content/models/Teleports.dff' type='client' />
+	<file src='Content/coll/Lights.col' type='client' />
+	<file src='Content/coll/B_Int00.col' type='client' />
+	<file src='Content/coll/Latter.col' type='client' />
+	<file src='Content/coll/T_Int00.col' type='client' />
+	<file src='Content/coll/B_Int01.col' type='client' />
+	<file src='Content/coll/B_Int02.col' type='client' />
+	<file src='Content/coll/B_Int03.col' type='client' />
+	<file src='Content/coll/B_Int04.col' type='client' />
+	<file src='Content/coll/B_Int05.col' type='client' />
+	<file src='Content/coll/B_Int06.col' type='client' />
+	<file src='Content/coll/B_Int07.col' type='client' />
+	<file src='Content/coll/B_Int08.col' type='client' />
+	<file src='Content/coll/B_Int09.col' type='client' />
+	<file src='Content/coll/B_Int10.col' type='client' />
+	<file src='Content/coll/B_Int11.col' type='client' />
+	<file src='Content/coll/B_Int12.col' type='client' />
+	<file src='Content/coll/B_Int13.col' type='client' />
+	<file src='Content/coll/B_Int14.col' type='client' />
+	<file src='Content/coll/B_Int15.col' type='client' />
+	<file src='Content/coll/T_Int01.col' type='client' />
+	<file src='Content/coll/T_Int02.col' type='client' />
+	<file src='Content/coll/T_Int03.col' type='client' />
+	<file src='Content/coll/Teleports.col' type='client' />
+</meta>

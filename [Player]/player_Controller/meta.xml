@@ -1,0 +1,31 @@
+<meta>
+    <info author="Cobra" type="script" version="1.0.0" />
+	<oop>true</oop>
+
+    <script src="General/s_General.lua" type="server"  />
+    <script src="General/c_General.lua" type="client"  />
+	
+	<script src="Camera/c_Camera.lua" type="client"/>
+	<file src="Camera/null.fx" type="client"/>
+	
+    <script src="Animations/s_Animation.lua" type="server"  />
+    <script src="Animations/c_Animation.lua" type="client"  />
+		<file src="Animations/Aim.ifp" type="client"  />
+		<file src="Animations/Aim_Crouch.ifp" type="client"  />
+	
+    <script src="Upper/s_Upper.lua" type="server"  />
+    <script src="Upper/c_Upper.lua" type="client"  />
+	
+    <file src="Sounds/Foot Step/concrete1.wav"/> 
+    <file src="Sounds/Foot Step/concrete2.wav"/> 
+    <file src="Sounds/Foot Step/grass1.wav"/> 
+    <file src="Sounds/Foot Step/grass2.wav"/> 
+    <file src="Sounds/Foot Step/ice1.wav"/> 
+    <file src="Sounds/Foot Step/ice2.wav"/> 
+    <file src="Sounds/Foot Step/snow1.wav"/> 
+    <file src="Sounds/Foot Step/snow2.wav"/> 
+	
+    <file src="Sounds/zoom_in.wav"/> 
+    <file src="Sounds/zoom_out.wav"/> 
+
+</meta>

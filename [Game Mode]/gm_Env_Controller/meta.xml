@@ -1,0 +1,8 @@
+<meta>
+    <info author="Cobra" type="script" version="1.0.0" />
+    <script src="c_env.lua" type="client"  />
+    <script src="s_env.lua" type="server"  />
+	
+    <file src="Sounds/Pelican_Engine.wav" />
+    <file src="Sounds/Pelican_Wind.wav" />
+</meta>

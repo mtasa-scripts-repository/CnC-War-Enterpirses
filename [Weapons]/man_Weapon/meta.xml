@@ -1,0 +1,30 @@
+
+<meta>
+	<info type="script" name="Weapon Loader" author="Cobra" description="Weapon Loader" version="1" cStream="1" />
+	<file src="gta3.CSD" />
+	
+	<script src='c_Switch.lua' type='client' />
+	
+	<file src='Content/textures/Weapon.txd' type='client' />
+	
+	<file src='Content/models/AR.dff' type='client' />
+	<file src='Content/coll/AR.col' type='client' />
+
+	<file src='Content/models/Pistol.dff' type='client' />
+	<file src='Content/coll/Pistol.col' type='client' />
+	
+	<file src='Content/models/Shotgun.dff' type='client' />
+	<file src='Content/coll/Shotgun.col' type='client' />
+	
+	<file src='Content/models/Sniper.dff' type='client' />
+	<file src='Content/coll/Sniper.col' type='client' />
+	
+	<file src='Content/models/Rocket Launcher.dff' type='client' />
+	<file src='Content/coll/Rocket Launcher.col' type='client' />
+	
+	<file src='Content/models/Rocket.dff' type='client' />
+	<file src='Content/coll/Rocket.col' type='client' />
+	
+	<file src='Content/models/BR.dff' type='client' />
+	<file src='Content/coll/BR.col' type='client' />
+</meta>

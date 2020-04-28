@@ -1,0 +1,15 @@
+<meta>
+    <info author="Cobra" type="script" version="1.0.0" />
+    <script src="cHud.lua" type="client"  />
+	
+    <file src="Content/Health.png" type="client"  />
+    <file src="Content/Ammo.png" type="client"  />
+    <file src="Content/Magazine.png" type="client"  />
+	
+    <file src="Content/Weapon Icons/AR.png" type="client"  />
+    <file src="Content/Weapon Icons/BR.png" type="client"  />
+    <file src="Content/Weapon Icons/Shotgun.png" type="client"  />
+    <file src="Content/Weapon Icons/Rocket Launcher.png" type="client"  />
+    <file src="Content/Weapon Icons/Sniper.png" type="client"  />
+    <file src="Content/Weapon Icons/Pistol.png" type="client"  />
+</meta>

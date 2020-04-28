@@ -1,0 +1,17 @@
+<meta>
+    <info author="Cobra" type="script" version="1.0.0" />
+    <script src="cCTF.lua" type="client"  />
+    <script src="sCTF.lua" type="server"  />
+	
+    <file src="Content/player.png" type="client"  />
+    <file src="Content/Objective.png" type="client"  />
+    <file src="Content/CircleSelected.png" type="client"  />
+    <file src="Content/Guard.png" type="client"  />
+    <file src="Content/stripes.png" type="client"  />
+	
+    <file src="Content/5.png" type="client"  />
+    <file src="Content/4.png" type="client"  />
+    <file src="Content/3.png" type="client"  />
+    <file src="Content/2.png" type="client"  />
+    <file src="Content/1.png" type="client"  />
+</meta>

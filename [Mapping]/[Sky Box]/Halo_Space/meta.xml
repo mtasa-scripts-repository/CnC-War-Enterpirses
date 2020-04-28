@@ -1,0 +1,24 @@
+
+<meta>
+	<info type="script" name="Halo_Sky" author="Cobra" description="Halo Skybox" version="1" cStream="1" />
+	<file src="gta3.CSD" />
+
+	<script src="Settings/CWaterData.lua" type="client" />
+	<script src="c_Skybox.lua" type="client" />
+	
+	<file src='Content/textures/Sky.txd' type='client' />
+
+	<file src='Content/models/Stars.dff' type='client' />
+	<file src='Content/models/Halo Ring.dff' type='client' />
+	<file src='Content/models/Basis.dff' type='client' />
+	<file src='Content/models/Threshold.dff' type='client' />
+	<file src='Content/models/Space.dff' type='client' />
+	<file src='Content/models/Clouds.dff' type='client' />
+	<file src='Content/models/Atmosphere.dff' type='client' />
+	<file src='Content/models/SeaBed.dff' type='client' />
+	<file src='Content/models/Water.dff' type='client' />
+	<file src='Content/models/Fog_Band.dff' type='client' />
+	<file src='Content/models/Distance_Land.dff' type='client' />
+	
+	<file src='Content/coll/Sky_Col.col' type='client' />
+</meta>

@@ -1,0 +1,47 @@
+<meta>
+    <info author="Cobra" type="script" version="1.0.0" />
+	<oop>true</oop>
+	<min_mta_version client="1.3.3" server="1.3.3" />
+	
+	<script src="math_lib.lua"  type='client' />
+    <script src="c_Weapons.lua"  type='client' />
+	<file src="crosshair.png"  type='client' />
+	<file src="fx/texture.fx"  type='client' />
+	<script src="AR/c_AR.lua"  type='client' />
+	<script src="BR/c_BR.lua"  type='client' />
+	<script src="Sniper/c_Sniper.lua"  type='client' />
+	<file src="Sniper/sniper_rifle_scope_screen.png"  type='client' />
+	<file src="Sniper/sniper_rifle_scope_screen2.png"  type='client' />
+	<file src="Sniper/Lens.png"  type='client' />
+	
+	<file src="Crosshairs/Sniper.png"  type='client' />
+
+
+	
+	<file src="AR/Textures/compass_plate[0].png"  type='client' />
+	<file src="AR/Textures/compass_plate[1].png"  type='client' />
+	<file src="AR/Textures/compass_plate[2].png"  type='client' />
+	<file src="AR/Textures/compass_plate[3].png"  type='client' />
+	<file src="AR/Textures/compass_plate[4].png"  type='client' />
+	<file src="AR/Textures/compass_plate[5].png"  type='client' />
+	<file src="AR/Textures/compass_plate[6].png"  type='client' />
+	<file src="AR/Textures/compass_plate[7].png"  type='client' />
+	
+	<file src="AR/Textures/numbers_plate[0].png"  type='client' />
+	<file src="AR/Textures/numbers_plate[1].png"  type='client' />
+	<file src="AR/Textures/numbers_plate[2].png"  type='client' />
+	<file src="AR/Textures/numbers_plate[3].png"  type='client' />
+	<file src="AR/Textures/numbers_plate[4].png"  type='client' />
+	<file src="AR/Textures/numbers_plate[5].png"  type='client' />
+	<file src="AR/Textures/numbers_plate[6].png"  type='client' />
+	<file src="AR/Textures/numbers_plate[7].png"  type='client' />
+	<file src="AR/Textures/numbers_plate[8].png"  type='client' />
+	<file src="AR/Textures/numbers_plate[9].png"  type='client' />
+	
+	<file src="ReloadSounds/AR.wav"  type='client' />
+	<file src="ReloadSounds/BR.wav"  type='client' />
+	<file src="ReloadSounds/Pistol.wav"  type='client' />
+	<file src="ReloadSounds/Rocket Launcher.wav"  type='client' />
+	<file src="ReloadSounds/ShotGun.wav"  type='client' />
+	<file src="ReloadSounds/Sniper.wav"  type='client' />
+</meta>

@@ -1,0 +1,5 @@
+<meta>
+    <info author="Cobra" type="script" version="1.0.0" />
+    <script src="man_Player.lua"  />
+    <script src="man_Player_C.lua" type="client"  />
+</meta>

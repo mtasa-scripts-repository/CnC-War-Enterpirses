@@ -1,0 +1,8 @@
+<meta>
+    <info author="Cobra" type="script" version="1.0.0" />
+    <script src="c_Settings.lua" type="client"  />
+	
+    <file src="Content/arrow.png" type="client"  />
+    <file src="Content/check.png" type="client"  />
+    <file src="Content/close.png" type="client"  />
+</meta>

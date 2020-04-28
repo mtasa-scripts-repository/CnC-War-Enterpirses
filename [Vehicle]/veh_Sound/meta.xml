@@ -1,0 +1,9 @@
+<meta>
+    <info author="Cobra" type="script" version="1.0.0" />
+    <script src="c_sound.lua" type="client"  />
+    <script src="s_sound.lua" type="server"  />
+	
+    <file src="Sounds/idle.wav" />
+    <file src="Sounds/hi.wav" />
+
+</meta>

@@ -1,0 +1,7 @@
+<meta>
+	<info description="Shader - UV Scripted" version="0.0.2" type="script" />
+	<script src="c_uv_scripted.lua" type="client" />
+	<file src="uv_scripted.fx" type="client" />
+	<file src="include/tex_matrix.fx" type="client" />
+	<file src="images/env3.bmp" type="client" />
+</meta>

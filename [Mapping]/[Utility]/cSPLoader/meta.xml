@@ -1,0 +1,10 @@
+<meta>
+	<info type="script" name="CSP Ext Loader" author="Cobra" description="CSP Extra Loader" version="1" />
+
+	<script type="server" src="Main.lua" />
+	<script type="server" src="lightZones.lua" />
+	<script type="server" src="Vehicles.lua" />
+	<script type="server" src="spawnZones.lua" />
+	<script type="server" src="Objectives.lua" />
+	<script type="server" src="Weapons.lua" />
+</meta>

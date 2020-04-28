@@ -1,0 +1,7 @@
+<meta>
+    <info author="Cobra" type="script" version="1.0.0" />
+    <script src="c_Voting.lua" type="client"  />
+    <script src="s_Voting.lua" type="server"  />
+	<file src="Media/Battle Creek.png"  />
+	<file src="Media/Blood Gulch.png"  />
+</meta>

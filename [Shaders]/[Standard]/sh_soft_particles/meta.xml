@@ -1,0 +1,5 @@
+<meta>
+	<info author="Cobra J" description="Soft Particles" version="1" type="script" />
+	<script src="c_soft_particles.lua" type="client" />
+	<file src="fx/soft_particles.fx" type="client" />
+</meta>

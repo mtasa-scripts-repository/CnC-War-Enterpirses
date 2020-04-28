@@ -1,0 +1,86 @@
+
+<meta>
+	<info type="script" name="Grideon" author="Cobra" description="Interior 4 way map." version="1" cStream="1" />
+	<file src="gta3.CSD" />
+ 
+	<script src="c_mEnv.lua" type="client" />
+
+	<file src='Content/textures/Grideon.txd' type='client' />
+	<file src='Content/models/Glass.dff' type='client' />
+	<file src='Content/models/Grate.dff' type='client' />
+	<file src='Content/models/Oxegen_Tank013.dff' type='client' />
+	<file src='Content/models/Oxegen_Tank012.dff' type='client' />
+	<file src='Content/models/Oxegen_Tank011.dff' type='client' />
+	<file src='Content/models/Oxegen_Tank010.dff' type='client' />
+	<file src='Content/models/Oxegen_Tank009.dff' type='client' />
+	<file src='Content/models/Oxegen_Tank008.dff' type='client' />
+	<file src='Content/models/Oxegen_Tank007.dff' type='client' />
+	<file src='Content/models/Oxegen_Tank006.dff' type='client' />
+	<file src='Content/models/Oxegen_Tank005.dff' type='client' />
+	<file src='Content/models/Oxegen_Tank004.dff' type='client' />
+	<file src='Content/models/Oxegen_Tank003.dff' type='client' />
+	<file src='Content/models/Oxegen_Tank002.dff' type='client' />
+	<file src='Content/models/Oxegen_Tank001.dff' type='client' />
+	<file src='Content/models/Oxegen_Tank.dff' type='client' />
+	<file src='Content/models/Blue001.dff' type='client' />
+	<file src='Content/models/Blue.dff' type='client' />
+	<file src='Content/models/Red.dff' type='client' />
+	<file src='Content/models/Green.dff' type='client' />
+	<file src='Content/models/Platform01.dff' type='client' />
+	<file src='Content/models/Platform00.dff' type='client' />
+	<file src='Content/models/Platform03.dff' type='client' />
+	<file src='Content/models/Platform02.dff' type='client' />
+	<file src='Content/models/Object013.dff' type='client' />
+	<file src='Content/models/Object012.dff' type='client' />
+	<file src='Content/models/Object011.dff' type='client' />
+	<file src='Content/models/Object010.dff' type='client' />
+	<file src='Content/models/Object009.dff' type='client' />
+	<file src='Content/models/Object008.dff' type='client' />
+	<file src='Content/models/Object007.dff' type='client' />
+	<file src='Content/models/Object006.dff' type='client' />
+	<file src='Content/models/Object005.dff' type='client' />
+	<file src='Content/models/Object004.dff' type='client' />
+	<file src='Content/models/Object003.dff' type='client' />
+	<file src='Content/models/Object002.dff' type='client' />
+	<file src='Content/models/Object001.dff' type='client' />
+	<file src='Content/models/g.dff' type='client' />
+	<file src='Content/coll/Glass.col' type='client' />
+	<file src='Content/coll/Grate.col' type='client' />
+	<file src='Content/coll/Oxegen_Tank013.col' type='client' />
+	<file src='Content/coll/Oxegen_Tank012.col' type='client' />
+	<file src='Content/coll/Oxegen_Tank011.col' type='client' />
+	<file src='Content/coll/Oxegen_Tank010.col' type='client' />
+	<file src='Content/coll/Oxegen_Tank009.col' type='client' />
+	<file src='Content/coll/Oxegen_Tank008.col' type='client' />
+	<file src='Content/coll/Oxegen_Tank007.col' type='client' />
+	<file src='Content/coll/Oxegen_Tank006.col' type='client' />
+	<file src='Content/coll/Oxegen_Tank005.col' type='client' />
+	<file src='Content/coll/Oxegen_Tank004.col' type='client' />
+	<file src='Content/coll/Oxegen_Tank003.col' type='client' />
+	<file src='Content/coll/Oxegen_Tank002.col' type='client' />
+	<file src='Content/coll/Oxegen_Tank001.col' type='client' />
+	<file src='Content/coll/Oxegen_Tank.col' type='client' />
+	<file src='Content/coll/Blue001.col' type='client' />
+	<file src='Content/coll/Blue.col' type='client' />
+	<file src='Content/coll/Red.col' type='client' />
+	<file src='Content/coll/Green.col' type='client' />
+	<file src='Content/coll/Platform01.col' type='client' />
+	<file src='Content/coll/Platform00.col' type='client' />
+	<file src='Content/coll/Platform03.col' type='client' />
+	<file src='Content/coll/Platform02.col' type='client' />
+	<file src='Content/coll/Object013.col' type='client' />
+	<file src='Content/coll/Object012.col' type='client' />
+	<file src='Content/coll/Object011.col' type='client' />
+	<file src='Content/coll/Object010.col' type='client' />
+	<file src='Content/coll/Object009.col' type='client' />
+	<file src='Content/coll/Object008.col' type='client' />
+	<file src='Content/coll/Object007.col' type='client' />
+	<file src='Content/coll/Object006.col' type='client' />
+	<file src='Content/coll/Object005.col' type='client' />
+	<file src='Content/coll/Object004.col' type='client' />
+	<file src='Content/coll/Object003.col' type='client' />
+	<file src='Content/coll/Object002.col' type='client' />
+	<file src='Content/coll/Object001.col' type='client' />
+	<file src='Content/coll/g.col' type='client' />
+
+</meta>

@@ -1,0 +1,8 @@
+<meta>
+	<info description="Water Shader" version="1" type="script" />
+	<min_mta_version client="1.3.3" server="1.3.3" />
+	<script src="c_Water.lua" type="client" />
+	<file src="fx/tex_water.fx" type="client" />
+	<file src="images/wavemap.png" type="client" />
+	<file src="images/cube_env256.dds" type="client" />
+</meta>

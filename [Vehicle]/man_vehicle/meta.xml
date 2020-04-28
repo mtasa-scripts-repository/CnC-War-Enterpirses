@@ -1,0 +1,12 @@
+<meta>
+    <info author="Cobra" type="script" version="1.0.0" />
+    <script src="c_vManager.lua"  type='client' />
+	
+	<file src='Content/textures/warthog.txd' type='client' />
+	<file src='Content/models/warthog.dff' type='client' />
+	<file src='Content/textures/mongoose.txd' type='client' />
+	<file src='Content/models/mongoose.dff' type='client' />
+	
+	<file src='Varients/warthog.list' type='client' />
+
+</meta>

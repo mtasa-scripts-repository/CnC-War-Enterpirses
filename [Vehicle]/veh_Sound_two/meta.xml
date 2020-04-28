@@ -1,0 +1,17 @@
+<meta>
+	<file src="sounds/Mongoose/1.wav" type="client" download="true" />
+    <file src="sounds/Mongoose/2.wav" type="client" download="true" />
+    <file src="sounds/Mongoose/3.wav" type="client" download="true" />
+
+	<file src="sounds/Warthog/1.wav" type="client" download="true" />
+    <file src="sounds/Warthog/2.wav" type="client" download="true" />
+    <file src="sounds/Warthog/3.wav" type="client" download="true" />
+	
+	
+	<script src="engine_c.lua" type="client" />
+	<script src="engine_s.lua" type="server" />
+	
+	<export function="getVehicleRPM" type="client" />
+	<export function="getVehicleGear" type="client" />
+	<export function="toggleEngines" type="client" />
+</meta>

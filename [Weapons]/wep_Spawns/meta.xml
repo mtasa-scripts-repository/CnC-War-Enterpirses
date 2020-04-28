@@ -1,0 +1,18 @@
+<meta>
+    <info author="Cobra" type="script" version="1.0.0" />
+	<oop>true</oop>
+	<min_mta_version client="1.3.3" server="1.3.3" />
+	
+	<script src="c_Wep_Spawns.lua"  type='client' />
+    <script src="s_Wep_Spawns.lua"  type='server' />
+	
+
+    <file src="Weapon Icons/Magazine.png" type="client"  />
+	
+    <file src="Weapon Icons/AR.png" type="client"  />
+    <file src="Weapon Icons/BR.png" type="client"  />
+    <file src="Weapon Icons/Shotgun.png" type="client"  />
+    <file src="Weapon Icons/Rocket Launcher.png" type="client"  />
+    <file src="Weapon Icons/Sniper.png" type="client"  />
+    <file src="Weapon Icons/Pistol.png" type="client"  />
+</meta>

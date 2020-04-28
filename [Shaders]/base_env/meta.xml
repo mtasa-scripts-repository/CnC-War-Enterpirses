@@ -1,0 +1,12 @@
+<meta>
+    <info author="Cobra" type="script" version="1.0.0" />
+    <script src="c_Env.lua"  type="client"/>
+	<export function="setSunPosition" type="client"/>
+	<export function="getSunPosition" type="client"/>
+	
+	<export function="getSunColor" type="client"/>
+	<export function="setSunColor" type="client"/>
+	
+	<export function="getNightLimit" type="client"/>
+	<export function="setNightLimit" type="client"/>
+</meta>

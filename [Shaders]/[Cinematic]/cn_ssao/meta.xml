@@ -1,0 +1,11 @@
+<meta>
+	<info description="Shader - mxao test" version="0.0.3" type="script" />
+	<min_mta_version client="1.4" server="1.4" />
+
+	<script src="c_Ssao.lua" type="client" />
+	<file src="Shaders/ssao.fx" type="client" />
+	<file src="Shaders/getNormal.fx" type="client" />
+	<file src="Shaders/blur1.fx" type="client" />
+	<file src="Shaders/blur2.fx" type="client" />
+	<file src="Shaders/blend.fx" type="client" />
+</meta>

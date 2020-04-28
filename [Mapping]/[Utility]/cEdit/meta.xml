@@ -1,0 +1,232 @@
+<meta>
+	<info type="script" name="Multi Theft Auto Edit" author="CodyJ" description="CEditor" version="0.1.3" />
+	<oop>true</oop> 
+	<script type="client" src="Client/Framework/Client.lua" />
+	<script type="client" src="Client/Framework/Image.lua" />
+	<script type="client" src="Client/Framework/Menus.lua" />
+	<script type="client" src="Client/Framework/Menu Functions.lua" />
+	<script type="client" src="Client/Framework/Right Click Menu.lua" />
+	<script type="client" src="Client/Framework/Binds.lua" />
+	<script type="client" src="Client/Framework/Editor Settings.lua" />
+	<script type="client" src="Client/Framework/Map Settings.lua" />
+	
+	<script type="client" src="Client/Utilities/Core/Color Picker.lua" />
+	<script type="client" src="Client/Utilities/Core/Bounding Box.lua" />
+	<script type="client" src="Client/Utilities/Core/Edit Box.lua" />
+	<script type="client" src="Client/Utilities/Core/Description System.lua" />
+	<script type="client" src="Client/Utilities/Core/Undo Redo System.lua" />
+	<script type="client" src="Client/Utilities/Core/Search.lua" />
+	<script type="client" src="Client/Utilities/Core/Saving System.lua" />
+	<script type="client" src="Client/Utilities/Core/Notification System.lua" />
+	<script type="client" src="Client/Utilities/Core/Transformation Manipulation.lua" />
+	<script type="client" src="Client/Utilities/Core/QuaternionLib.lua" />
+	<script type="client" src="Client/Utilities/Core/Highlight.lua" />
+	<script type="client" src="Client/Utilities/Core/Freecam_MISC.lua" />
+	<script type="client" src="Client/Utilities/Core/Freecam.lua" />
+	<script type="client" src="Client/Utilities/Core/Gimbals.lua" />
+	<script type="client" src="Client/Utilities/Core/Magnets.lua" />
+	<script type="client" src="Client/Utilities/Core/Grid Snap.lua" />
+	<script type="client" src="Client/Utilities/Core/Translation System.lua" />
+	
+	<script type="client" src="Client/Utilities/Object List.lua" />
+	<script type="client" src="Client/Utilities/Object Descriptions.lua" />
+	<script type="client" src="Client/Utilities/Element Settings.lua" />
+	<script type="client" src="Client/Utilities/Stack Element.lua" />
+	<script type="client" src="Client/Utilities/Element Manipulation Get.lua" />
+	<script type="client" src="Client/Utilities/Element Manipulation Set.lua" />
+	
+	<script type="client" src="Client/Creation/Vehicle Creation.lua" />
+	<script type="client" src="Client/Creation/Spawn Creation.lua" />
+	<script type="client" src="Client/Creation/Light Creation.lua" />
+	<script type="client" src="Client/Creation/Objective Creation.lua" />
+	<script type="client" src="Client/Creation/Weapon Creation.lua" />
+	
+	<script type="client" src="Client/Framework/Cache.lua" />
+	
+	<script type="server" src="Server/Server.lua" />
+	<script type="server" src="Server/Object Creation.lua" />
+	<script type="server" src="Server/Transformation Manipulation.lua" />
+	<script type="server" src="Server/Element Manipulation.lua" />
+	<script type="server" src="Server/Description System.lua" />
+	<script type="server" src="Server/Translation System.lua" />
+	<script type="server" src="Server/Property Loader.lua" />
+	
+	<script type="server" src="Server/Map Save System.lua" />
+	
+	<script type="server" src="Server/Creation/Vehicle Creation.lua" />
+	<script type="server" src="Server/Creation/Spawn Creation.lua" />
+	<script type="server" src="Server/Creation/Light Creation.lua" />
+	<script type="server" src="Server/Creation/Objective Creation.lua" />
+	<script type="server" src="Server/Creation/Weapon Creation.lua" />
+	
+	<file src="Content/SelectorCol.fx" />
+	<file src="Content/Highlight.fx" />
+	
+	
+	<file src="Content/arrow.png" />
+	<file src="Content/Customize.png" />
+	<file src="Content/New Element.png" />
+	<file src="Content/Ped Editor.png" />
+	<file src="Content/Load.png" />
+	<file src="Content/Settings.png" />
+	<file src="Content/Player Spawn.png" />
+	<file src="Content/Lighting.png" />
+	<file src="Content/LightingT.png" />
+	<file src="Content/LightingB.png" />
+	<file src="Content/Spawn Arrow.png" />
+	
+	<file src="Content/Crosshair_C.png" />
+	<file src="Content/Crosshair.png" />
+
+	<file src="Content/Circle.dff" />
+	<file src="Content/Circle.col" />
+	
+	<file src="Content/Save.png" />
+	<file src="Content/Preview.png" />
+	<file src="Content/freeCam.png" />
+	<file src="Content/Controls.png" />
+	
+	<file src="Content/Weapon.png" />
+
+	
+	<file src="Content/Speed.png" />
+	<file src="Content/Boundries.png" />
+	<file src="Content/Movement.png" />
+	<file src="Content/Rotation.png" />
+	<file src="Content/Scale.png" />
+	<file src="Content/Move Type.png" />
+	<file src="Content/Magnets.png" />
+	<file src="Content/Snap.png" />
+	<file src="Content/Depth.png" />
+	<file src="Content/Check.png" />
+	<file src="Content/Object.png" />
+	<file src="Content/Create Vehicle.png" />
+	<file src="Content/Favorite.png" />
+	<file src="Content/Copy Selected.png" />
+	<file src="Content/Copy Position.png" />
+	<file src="Content/Copy Rotation.png" />
+	<file src="Content/Delete Selected.png" />
+	<file src="Content/Select All.png" />
+	<file src="Content/Deselect All.png" />
+	<file src="Content/Undo.png" />
+	<file src="Content/Redo.png" />
+	<file src="Content/Objective.png" />
+	<file src="Content/Grid.png" />
+	<file src="Content/Restore Model.png" />
+	<file src="Content/Surface Snap.png" />
+	
+	<file src="Content/sv.png" />
+	<file src="Content/hv.png" />
+	<file src="Content/close.png" />
+	<file src="Content/cursor.png" />
+	<file src="Content/cursor2.png" />
+	
+	<file src="Content/Circle.png" />
+	<file src="Content/CircleSelected.png" />
+	
+	<file src="Lists/Vehicle Lists/UNSC.list" />
+	
+	<file src="Content/keys/,.png" />
+	<file src="Content/keys/dot.png" />
+	<file src="Content/keys/'.png" />
+	<file src="Content/keys/-.png" />
+	<file src="Content/keys/;.png" />
+	<file src="Content/keys/[.png" />
+	<file src="Content/keys/].png" />
+	<file src="Content/keys/`.png" />
+	<file src="Content/keys/=.png" />
+	<file src="Content/keys/0.png" />
+	<file src="Content/keys/1.png" />
+	<file src="Content/keys/2.png" />
+	<file src="Content/keys/3.png" />
+	<file src="Content/keys/4.png" />
+	<file src="Content/keys/5.png" />
+	<file src="Content/keys/6.png" />
+	<file src="Content/keys/7.png" />
+	<file src="Content/keys/8.png" />
+	<file src="Content/keys/9.png" />
+	<file src="Content/keys/a.png" />
+	<file src="Content/keys/arrow_d.png" />
+	<file src="Content/keys/arrow_u.png" />
+	<file src="Content/keys/arrow_l.png" />
+	<file src="Content/keys/arrow_r.png" />
+	<file src="Content/keys/b.png" />
+	<file src="Content/keys/backslash.png" />
+	<file src="Content/keys/backspace.png" />
+	<file src="Content/keys/c.png" />
+	<file src="Content/keys/capslock.png" />
+	<file src="Content/keys/d.png" />
+	<file src="Content/keys/delete.png" />
+	<file src="Content/keys/e.png" />
+	<file src="Content/keys/end.png" />
+	<file src="Content/keys/enter.png" />
+	<file src="Content/keys/esc.png" />
+	<file src="Content/keys/f.png" />
+	<file src="Content/keys/f1.png" />
+	<file src="Content/keys/f2.png" />
+	<file src="Content/keys/f3.png" />
+	<file src="Content/keys/f4.png" />
+	<file src="Content/keys/f5.png" />
+	<file src="Content/keys/f6.png" />
+	<file src="Content/keys/f7.png" />
+	<file src="Content/keys/f8.png" />
+	<file src="Content/keys/f9.png" />
+	<file src="Content/keys/f10.png" />
+	<file src="Content/keys/f11.png" />
+	<file src="Content/keys/f12.png" />
+	<file src="Content/keys/g.png" />
+	<file src="Content/keys/h.png" />
+	<file src="Content/keys/home.png" />
+	<file src="Content/keys/i.png" />
+	<file src="Content/keys/insert.png" />
+	<file src="Content/keys/j.png" />
+	<file src="Content/keys/k.png" />
+	<file src="Content/keys/l.png" />
+	<file src="Content/keys/m.png" />
+	<file src="Content/keys/n.png" />
+	<file src="Content/keys/lalt.png" />
+	<file src="Content/keys/lctrl.png" />
+	<file src="Content/keys/lshift.png" />
+	<file src="Content/keys/num_0.png" />
+	<file src="Content/keys/num_1.png" />
+	<file src="Content/keys/num_2.png" />
+	<file src="Content/keys/num_3.png" />
+	<file src="Content/keys/num_4.png" />
+	<file src="Content/keys/num_5.png" />
+	<file src="Content/keys/num_6.png" />
+	<file src="Content/keys/num_7.png" />
+	<file src="Content/keys/num_8.png" />
+	<file src="Content/keys/num_9.png" />
+	<file src="Content/keys/num_add.png" />
+	<file src="Content/keys/num_dec.png" />
+	<file src="Content/keys/num_enter.png" />
+	<file src="Content/keys/num_mul.png" />
+	<file src="Content/keys/num_sub.png" />
+	<file src="Content/keys/o.png" />
+	<file src="Content/keys/p.png" />
+	<file src="Content/keys/pgup.png" />
+	<file src="Content/keys/pgdn.png" />
+	<file src="Content/keys/q.png" />
+	<file src="Content/keys/question.png" />
+	<file src="Content/keys/r.png" />
+	<file src="Content/keys/ralt.png" />
+	<file src="Content/keys/rctrl.png" />
+	<file src="Content/keys/rshift.png" />
+	<file src="Content/keys/s.png" />
+	<file src="Content/keys/slash.png" />
+	<file src="Content/keys/space.png" />
+	<file src="Content/keys/t.png" />
+	<file src="Content/keys/tab.png" />
+	<file src="Content/keys/u.png" />
+	<file src="Content/keys/v.png" />
+	<file src="Content/keys/w.png" />
+	<file src="Content/keys/x.png" />
+	<file src="Content/keys/y.png" />
+	<file src="Content/keys/z.png" />
+	
+	<file src="Content/keys/mouse1.png" />
+	<file src="Content/keys/mouse2.png" />
+	<file src="Content/keys/mouse3.png" />
+	<file src="Content/keys/mouse_wheel_up.png" />
+	<file src="Content/keys/mouse_wheel_down.png" />
+</meta>

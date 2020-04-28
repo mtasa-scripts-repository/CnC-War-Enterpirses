@@ -1,0 +1,15 @@
+<meta>
+	<info name="Vertex light Shader" version="1" type="script" author="Cobra" />
+	<min_mta_version client="1.3.5" server="1.3.5"/>
+	
+	<script src="c_Light.lua" type="client" cache="false"/>
+	<script src="s_Light.lua" type="server"/>
+
+	<file src="Shaders/shader.fx" type="client" cache="false"/>
+	<file src="Shaders/shader_low.fx" type="client" cache="false"/>
+
+	<file src="Shaders/mta-helper.fx" type="client" cache="false"/>
+	
+	<export function="getSunColor" type="client"/>
+		
+</meta>

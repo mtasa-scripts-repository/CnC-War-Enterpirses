@@ -1,0 +1,53 @@
+<meta>
+    <info author="Cobra" type="script" version="1.0.0" />
+    <script src="matrixLib.lua"  type='client' />
+	<oop>true</oop>
+    <script src="c_Weapon.lua"  type='client' />
+    <script src="s_Weapon.lua"  type='server' />
+	
+    <script src="c_Sounds.lua"  type='client' />
+	
+    <file src="Textures/bullet_hole[1].png"/>
+    <file src="Textures/bullet_hole[2].png"/>
+    <file src="Textures/bullet_hole[3].png"/>
+    <file src="Textures/bullet_hole[4].png"/>
+    <file src="Textures/bullet_hole[5].png"/>
+    <file src="Textures/bullet_hole[6].png"/>
+    <file src="Textures/bullet_hole[7].png"/>
+    <file src="Textures/bullet_hole[8].png"/>
+	
+    <file src="Sounds/Generic/Dry Fire.wav"/>
+    <file src="Sounds/Generic/Eject 1.wav"/>
+    <file src="Sounds/Generic/Eject 2.wav"/>
+
+    <file src="Sounds/Generic/Flyby/Flyby 1.wav"/>
+    <file src="Sounds/Generic/Flyby/Flyby 2.wav"/> 
+	
+    <file src="Sounds/Generic/Impact/Dirt/Impact.wav"/>
+	
+    <file src="Sounds/Generic/Impact/Flesh/Impact.wav"/>
+	
+    <file src="Sounds/Generic/Impact/Metal/Impact.wav"/>
+	
+    <file src="Sounds/Generic/Impact/Stone/Impact.wav"/>
+	
+    <file src="Sounds/AR/Far.wav"/>
+	
+    <file src="Sounds/BR/Close.wav"/>
+    <file src="Sounds/BR/Far.wav"/>
+	
+    <file src="Sounds/Pistol/Close.wav"/>
+    <file src="Sounds/Pistol/Far.wav"/>
+	
+    <file src="Sounds/Shotgun/Close.wav"/>
+    <file src="Sounds/Shotgun/Far.wav"/>
+	
+    <file src="Sounds/Sniper/Close.wav"/>
+    <file src="Sounds/Sniper/Far.wav"/>
+	
+    <file src="Sounds/Rocket Launcher/Close.wav"/>
+    <file src="Sounds/Rocket Launcher/Far.wav"/>
+    <file src="Sounds/Rocket Launcher/Impact Close.wav"/>
+    <file src="Sounds/Rocket Launcher/Impact Far.wav"/>
+    <file src="Sounds/Rocket Launcher/Projectile.wav"/>
+</meta>

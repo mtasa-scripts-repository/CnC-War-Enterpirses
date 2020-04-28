@@ -1,0 +1,8 @@
+<meta>
+	<info name="LUT Shader" version="1" type="script" />
+	<min_mta_version client="1.4" server="1.4" />
+	<oop>true</oop>
+	<script src="c_Lut.lua" type="client" />
+	<file src="Shaders/lut.fx" type="client" />
+	<file src="Media/lut.png" type="client" />
+</meta>

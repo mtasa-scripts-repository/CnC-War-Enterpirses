@@ -1,0 +1,9 @@
+<meta>
+	<info description="Dof Shader" version="1" type="script" />
+	<min_mta_version client="1.4.0" server="1.4.0" />
+	<script src="c_Rtpool.lua" type="client" />
+	<script src="c_Dof.lua" type="client" />
+	<file src="fx/dBlurH.fx" type="client" />
+	<file src="fx/dBlurV.fx" type="client" />
+	<file src="fx/dDepthTex.fx" type="client" />
+</meta>

@@ -1,0 +1,21 @@
+<meta>
+	<info name="dr_shader_detail" version="0.0.7" type="script" />
+	<min_mta_version client="1.5.0" server="1.5.0" />
+
+	<script src="c_Detail.lua" type="client" />
+
+	<file src="fx/detail.fx" type="client" />
+	<file src="fx/detail_splat.fx" type="client" />
+	<file src="fx/mta-helper.fx" type="client" />
+
+	<file src="media/detail grass.png" type="client" />
+	<file src="media/detail cliff rock.png" type="client" />
+	<file src="media/detail brushed metal.png" type="client" />
+	<file src="media/detail snow.png" type="client" />
+	<file src="media/detail cliff rock smooth.png" type="client" />
+	<file src="media/detail ground.png" type="client" />
+	<file src="media/volumetric dust.png" type="client" />
+	<file src="media/bark.png" type="client" />
+	<file src="media/detail tech panels.png" type="client" />
+	<file src="media/bridge energy pulse.png" type="client" />
+</meta>

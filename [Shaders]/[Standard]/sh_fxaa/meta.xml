@@ -1,0 +1,9 @@
+<meta>
+	<info name="fxAA" description="Fast-Approximate Anti Aliasing (FXAA) v3" version="0.0.2" type="script" />
+	<min_mta_version client="1.3.3" server="1.3.3" />
+	<script src="c_fxaa.lua" type="client" />
+	<script src="c_rtpool.lua" type="client" />
+	<script src="c_switch.lua" type="client" />
+	<file src="fx/FXAA.fx" type="client" />
+	<file src="fx/mta-helper.fx" type="client" />
+</meta>

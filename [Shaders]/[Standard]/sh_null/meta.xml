@@ -1,0 +1,5 @@
+<meta>
+	<info name="shader null" author="Cobra" version="1" type="script" />
+	<script src="c_Null.lua" type="client" />
+	<file src="Shaders/shader_null.fx" type="client" />
+</meta>

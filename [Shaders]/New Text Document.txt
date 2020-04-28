@@ -1,0 +1,2 @@
+base_env controls sun color, and position. -- Ensure to hook into export from map.
+ Will control other things in the future.

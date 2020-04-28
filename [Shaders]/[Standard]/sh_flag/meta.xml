@@ -1,0 +1,6 @@
+<meta>
+	<info description="Shader - flag" version="0.0.3" type="script" />
+	<script src="c_main.lua" type="client" />
+	<file src="flag.fx" type="client" />
+	<file src="mta-helper.fx" type="client" />
+</meta>

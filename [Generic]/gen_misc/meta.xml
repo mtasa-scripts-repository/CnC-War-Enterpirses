@@ -1,0 +1,5 @@
+<meta>
+    <info author="Cobra" type="script" version="1.0.0" />
+    <script src="s_Misc.lua"  />
+    <script src="c_Misc.lua" type="client"  />
+</meta>

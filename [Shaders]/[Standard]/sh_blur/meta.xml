@@ -1,0 +1,8 @@
+<meta>
+	<info name ="BlurShader" description="Blur Shader v1" author ="Sam@ke" version="1.0.0" type="script" />
+	
+	<script src="BlurShader.lua" type="client"/>
+	
+	<file src="shaders/BlurShader.fx" type="client"/>
+</meta>
+

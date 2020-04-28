@@ -1,0 +1,15 @@
+<meta>
+    <info name="dr_Shadows" version="1" type="script" author="Cobra" />
+    <min_mta_version client="1.5.7-9.20157" />
+    <oop>true</oop>
+    <include resource="dr_rendertarget" />
+    <file src="fx/primitive3D_projectedTexture.fx" type="client" />
+    <file src="fx/primitive2D_fixZBuffer.fx" type="client" />
+	
+    <file src="test.png" type="client" />
+    
+    <script src="c_Main.lua" type="client" />
+    <script src="c_Common.lua" type="client" />
+    <script src="c_fShadow.lua" type="client" />
+    
+</meta>

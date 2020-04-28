@@ -1,0 +1,7 @@
+<meta>
+    <info author="Cobra" type="script" version="1.0.0" />
+    <script src="sBloodgulch.lua" type="server"  />
+    <script src="cBloodgulch.lua" type="client"  />
+	
+ 
+</meta>
